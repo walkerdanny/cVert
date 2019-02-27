@@ -1,0 +1,4 @@
+HD44780 Library: https://github.com/duinoWitchery/hd44780/releases
+TimerOne Library: https://github.com/PaulStoffregen/TimerOne
+Flexitimer2 Library: https://github.com/wimleers/flexitimer2
+ClickEncoder Library: https://github.com/0xPIT/encoder

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 524.40945 744.09448"
+   height="210mm"
+   width="148mm">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path7610" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8123"
+       style="overflow:visible;">
+      <path
+         id="path8125"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path7604" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker7973"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7975" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7586" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4150">
+      <path
+         d="m 81265,100898 96256,0 0,62975 -96256,0 0,-62975"
+         id="path4152" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4374">
+      <path
+         d="m 253985,161109 88652,0 0,98072 -88652,0 0,-98072"
+         id="path4376" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4958">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path4960" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5036">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path5038" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5048">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path5050" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8371">
+      <path
+         d="m 150229,106137 96255,0 0,62975 -96255,0 0,-62975"
+         id="path8373" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8595">
+      <path
+         d="m 25956,189197 88652,0 0,98071 -88652,0 0,-98071"
+         id="path8597" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9179">
+      <path
+         d="m 155127,111971 96256,0 0,46591 -96256,0 0,-46591"
+         id="path9181" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9393">
+      <path
+         d="m 157640,121461 96255,0 0,46590 -96255,0 0,-46590"
+         id="path9395" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9607">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path9609" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9685">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path9687" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9697">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path9699" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9895">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path9897" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9903">
+      <path
+         d="m 0,0 430086,0 0,304132 L 0,304132 0,0"
+         id="path9905" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.26772)"
+     id="layer1">
+    <rect
+       transform="matrix(0.99995603,-0.00937758,0.06995937,0.99754984,0,0)"
+       y="858.16699"
+       x="-34.220707"
+       height="36.051331"
+       width="117.07918"
+       id="rect11871-3"
+       style="opacity:1;fill:#191919;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:159.86599731;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="matrix(0.99990652,0.01367323,-0.00504699,0.99998726,0,0)"
+       y="327.20367"
+       x="23.639648"
+       height="38.933788"
+       width="163.48842"
+       id="rect11871"
+       style="opacity:1;fill:#191919;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:159.86599731;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="matrix(0.0034625,0,0,-0.0034625,-1863.8721,1348.8907)"
+       id="g9891">
+      <g
+         clip-path="url(#clipPath9895)"
+         id="g9893" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:124.00000095%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.650208"
+       y="354.43405"
+       id="text6697-8-9"><tspan
+         id="tspan7147-4-0"
+         x="33.650208"
+         y="354.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Generative art:</tspan><tspan
+         id="tspan4223"
+         x="33.650208"
+         y="379.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start" /><tspan
+         id="tspan5416"
+         x="33.650208"
+         y="404.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">When combined with the right software, cVert can</tspan><tspan
+         id="tspan4561"
+         x="33.650208"
+         y="429.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">be used to produce random visual art.</tspan><tspan
+         id="tspan4563"
+         x="33.650208"
+         y="454.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start" /><tspan
+         id="tspan4565"
+         x="33.650208"
+         y="479.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">Using the &quot;MidiBus&quot; library and Processing, cVert </tspan><tspan
+         id="tspan4567"
+         x="33.650208"
+         y="504.43405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">can provide a random input for a generative </tspan><tspan
+         id="tspan4569"
+         x="33.650208"
+         y="529.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">artwork. In fact, all of the background art in this</tspan><tspan
+         id="tspan5982"
+         x="33.650208"
+         y="554.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">zine was generated using this technique! cVert can </tspan><tspan
+         id="tspan5986"
+         x="33.650208"
+         y="579.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">also be used with platforms such as openFrameworks </tspan><tspan
+         id="tspan6008"
+         x="33.650208"
+         y="604.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">or Cinder, or to control web-based applications via </tspan><tspan
+         id="tspan5988"
+         x="33.650208"
+         y="629.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">the Web MIDI API.</tspan><tspan
+         id="tspan5954"
+         x="33.650208"
+         y="654.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start" /><tspan
+         id="tspan5958"
+         x="33.650208"
+         y="679.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">If the range of possible pitches and note numbers</tspan><tspan
+         id="tspan5962"
+         x="33.650208"
+         y="704.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">(0-127) is not big enough for your application,</tspan><tspan
+         id="tspan5972"
+         x="33.650208"
+         y="729.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">a recommended technique is to use a counter which</tspan><tspan
+         id="tspan5974"
+         x="33.650208"
+         y="754.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">constantly increments up to your desired maximum</tspan><tspan
+         id="tspan5976"
+         x="33.650208"
+         y="779.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">value. cVert can then be used to stop the counter</tspan><tspan
+         id="tspan5978"
+         x="33.650208"
+         y="804.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">when a note is played, resulting in a random</tspan><tspan
+         id="tspan5980"
+         x="33.650208"
+         y="829.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start">number in a useful range.</tspan><tspan
+         id="tspan6014"
+         x="33.650208"
+         y="854.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start" /><tspan
+         id="tspan6016"
+         x="33.650208"
+         y="879.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Weird stuff:</tspan><tspan
+         id="tspan6018"
+         x="33.650208"
+         y="904.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /><tspan
+         id="tspan6020"
+         x="33.650208"
+         y="929.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">If you really want to dive into the nitty gritty</tspan><tspan
+         id="tspan6022"
+         x="33.650208"
+         y="954.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">of what cVert can be used for, Pure Data is a</tspan><tspan
+         id="tspan6030"
+         x="33.650208"
+         y="979.43408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">graphical programming environment which lets you</tspan><tspan
+         id="tspan6036"
+         x="33.650208"
+         y="1004.4341"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">process MIDI data on the fly. It can do lots of fun </tspan><tspan
+         id="tspan6040"
+         x="33.650208"
+         y="1029.4341"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Typewriter_Condensed;-inkscape-font-specification:'Typewriter_Condensed Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">things, including live audio and visuals.</tspan></text>
+  </g>
+</svg>
